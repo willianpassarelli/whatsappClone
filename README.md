@@ -17,7 +17,7 @@ $ react-native init whatsappClone
 ```
 
 ```sh
-$ react-native run-ios ou react-native run-ios
+$ react-native run-ios ou react-native run-android
 ```
 
 ## Exemplo de uso
