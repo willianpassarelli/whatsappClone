@@ -2,6 +2,28 @@
 
 > WhatsApp construido com React Native + Redux + Firebase
 
+## Telas da Aplicação
+
+<table>
+  <tr>
+    <th>
+      <img src="https://user-images.githubusercontent.com/26445991/56992436-72520d80-6b70-11e9-9e4c-bd8637a22b07.png" width="270" height="540">
+    </th>
+    <th>
+      <img src="https://user-images.githubusercontent.com/26445991/56992471-872ea100-6b70-11e9-9357-5f37674fa8d2.png" width="270" height="540">
+    </th>
+  </tr>
+      <th>
+        <img src="https://user-images.githubusercontent.com/26445991/56992492-8dbd1880-6b70-11e9-86d6-93e12dc028a5.png" width="270" height="540">
+  </th>
+    <th>
+      <img src="https://user-images.githubusercontent.com/26445991/56992502-91e93600-6b70-11e9-9e8a-29196a4eed86.png" width="270" height="540">
+  </th>
+  <tr>
+  </tr>
+</table>
+
+
 ## Instalação
 
 ```sh
@@ -71,24 +93,3 @@ const config = {
 ```sh
 $ yarn start
 ```
-
-## Telas da Aplicação
-
-<table>
-  <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/26445991/56992436-72520d80-6b70-11e9-9e4c-bd8637a22b07.png" width="270" height="540">
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/26445991/56992471-872ea100-6b70-11e9-9357-5f37674fa8d2.png" width="270" height="540">
-    </th>
-  </tr>
-      <th>
-        <img src="https://user-images.githubusercontent.com/26445991/56992492-8dbd1880-6b70-11e9-86d6-93e12dc028a5.png" width="270" height="540">
-  </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/26445991/56992502-91e93600-6b70-11e9-9e8a-29196a4eed86.png" width="270" height="540">
-  </th>
-  <tr>
-  </tr>
-</table>
