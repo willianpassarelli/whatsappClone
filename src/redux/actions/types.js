@@ -1,0 +1,20 @@
+// types for actions
+export const MDF_EMAIL = "MDF_EMAIL";
+export const MDF_PASSWORD = "MDF_PASSWORD";
+export const MDF_NAME = "MDF_NAME";
+export const ERROR_SIGNUP = "ERROR_SIGNUP";
+export const SUCCESS_SIGNUP = "SUCCESS_SIGNUP";
+export const ERROR_SIGNIN = "ERROR_SIGNIN";
+export const SUCCESS_SIGNIN = "SUCCESS_SIGNIN";
+export const ERROR_BOX_SIGNUP = "ERROR_BOX_SIGNUP";
+export const ERROR_BOX_SIGNIN = "ERROR_BOX_SIGNIN";
+export const SUCCESS_LOADER = "SUCCESS_LOADER";
+export const ADD_EMAIL = "ADD_EMAIL";
+export const ADD_EMAIL_ERROR = "ADD_EMAIL_ERROR";
+export const ERROR_BOX_ADD = "ERROR_BOX_ADD";
+export const SUCCESS_BOX_ADD = "SUCCESS_BOX_ADD";
+export const LIST_USER_CONTACT = "LIST_USER_CONTACT";
+export const CG_MESSAGE = "CG_MESSAGE";
+export const TALK_LIST_USER = "TALK_LIST_USER";
+export const SEND_MESSAGE = "SEND_MESSAGE";
+export const LIST_USER_CHAT = "LIST_USER_CHAT";
